@@ -1,0 +1,24 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Program Files (x86)\\MySQL\\Connector J 5.1\\mysql-connector-java-5.1.40-bin.jar",
+    "c:\\Users\\21698\\Documents\\mysql-connector-j-8.2.0.jar"
+  ],
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "jdbc:mysql://localhost:3306/test0",
+      "database": "test0",
+      "username": "root",
+      "password": "0000"
+    }
+  ]
+}

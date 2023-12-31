@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "admin",
+            "request": "launch",
+            "mainClass": "code.admin",
+            "projectName": "projet_b69f4031"
+        },
+        {
+            "type": "java",
+            "name": "controle",
+            "request": "launch",
+            "mainClass": "code.controle",
+            "projectName": "projet_b69f4031"
+        },
+        {
+            "type": "java",
+            "name": "inscription",
+            "request": "launch",
+            "mainClass": "code.inscription",
+            "projectName": "projet_b69f4031"
+        },
+        {
+            "type": "java",
+            "name": "modification",
+            "request": "launch",
+            "mainClass": "code.modification",
+            "projectName": "projet_b69f4031"
+        },
+        {
+            "type": "java",
+            "name": "select_email",
+            "request": "launch",
+            "mainClass": "code.select_email",
+            "projectName": "projet_b69f4031"
+        },
+        {
+            "type": "java",
+            "name": "show",
+            "request": "launch",
+            "mainClass": "code.show",
+            "projectName": "projet_b69f4031"
+        },
+        {
+            "type": "java",
+            "name": "user",
+            "request": "launch",
+            "mainClass": "code.user",
+            "projectName": "projet_b69f4031"
+        },
+        {
+            "type": "java",
+            "name": "welcome",
+            "request": "launch",
+            "mainClass": "code.welcome",
+            "projectName": "projet_b69f4031"
+        }
+    ]
+}
